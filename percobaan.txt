@@ -1,0 +1,3 @@
+Halo dunia nama saya Meutia
+
+Sekarang saya sedang belajar git dan github
